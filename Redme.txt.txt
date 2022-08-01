@@ -1,0 +1,9 @@
+Aothurs:
+Asaf Hermann 204803159
+Ofer Karp 209370030
+
+We attached 2 files:
+One is the apk that you can run on your android phone (called app-debug.apk)
+and the other one includes all the code
+
+In order to run the apk you need to install it on an Android phone and then run it.

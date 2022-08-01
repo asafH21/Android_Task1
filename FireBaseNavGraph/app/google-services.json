@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587943143725",
+    "project_id": "fir-navgraph",
+    "storage_bucket": "fir-navgraph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587943143725:android:fb122f94d67969ca42cba4",
+        "android_client_info": {
+          "package_name": "com.example.firebasenavgraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587943143725-iq5gbrejod2oh7276lj4rljkmdoe041i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklW77IoQdRxzwSHHTMODdxrErwmpn4GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587943143725-iq5gbrejod2oh7276lj4rljkmdoe041i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
